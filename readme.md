@@ -1,7 +1,7 @@
 [TOC]
 
 
-# ChineseNlpCorpus
+# ChineseNLPCorpus
 
 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
 
